@@ -48,7 +48,7 @@ How we do it:
 ### Service layers
 Approov service layers are wrappers for the [Approov SDK](https://github.com/approov/approov-ios-sdk) to enable easy integration with your build. 
 
-Some popular examples include: [React Native](https://github.com/approov/approov-service-react-native), [URL Session](https://github.com/approov/approov-service-nsurlsession), [OK Http](https://github.com/approov/approov-service-okhttp), [Volley](https://github.com/approov/approov-service-volley), [Retrofit](https://github.com/approov/approov-service-retrofit), [Android WebView](https://github.com/approov/approov-service-android-webview), [Https Url Connection](https://github.com/approov/approov-service-httpsurlconn), [Moya](https://github.com/approov/approov-service-moya), [Alamofire](https://github.com/approov/approov-service-alamofire), and many more! 
+Some popular examples include: [React Native](https://github.com/approov/approov-service-react-native), [URL Session](https://github.com/approov/approov-service-nsurlsession), [OK Http](https://github.com/approov/approov-service-okhttp), [Volley](https://github.com/approov/approov-service-volley), [Retrofit](https://github.com/approov/approov-service-retrofit), [Android WebView](https://github.com/approov/approov-service-android-webview), [Https Url Connection](https://github.com/approov/approov-service-httpsurlconn), [Alamofire](https://github.com/approov/approov-service-alamofire), and many more! 
 
 Our service layers are all open source. If you're looking for one in particular, you'll find them all when searching our organization on GitHub.
 
