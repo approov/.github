@@ -66,11 +66,11 @@ Use these examples to validate Approov tokens before allowing traffic to reach p
 
 ## 📚 Documentation and resources 
 
-- Developer docs: https://approov.io/docs/
-- Quickstarts: https://approov.io/resource/quickstarts/
+- Documentation: https://docs.approov.io
+- Quickstarts: https://approov.io/resource/quickstarts
 - Changelog: https://approov.io/changelog
-- Blog: https://blog.approov.io/
-- Free trial: https://approov.io/signup/
+- Blog: https://approov.io/blog
+- Free trial: https://approov.io/signup
 
 ### Learn mobile API security concepts 
 
