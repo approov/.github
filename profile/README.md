@@ -1,18 +1,18 @@
-# 👋 Welcome to Approov
+# Welcome to Approov
 
-Since 2001, Approov has been providing mobile app protection and mobile API security for apps on Android, iOS, and HarmonyOS. 
+Since 2016, Approov has been providing mobile app protection and mobile API security for apps on Android, iOS, and HarmonyOS. 
 
 Here, you'll find open source quickstarts, SDK examples, service layers, and more to help you learn how to integrate Approov into your mobile apps.
 
 Approov helps teams protect APIs from:
-- fake or repackaged mobile apps
-- bots and scripted API abuse, such as app scraping
-- stolen API keys and embedded secrets
-- man-in-the-middle attacks
-- unauthorized clients calling mobile APIs directly
-- compromised or risky runtime environments
+- Fake or repackaged mobile apps
+- Bots and scripted API abuse, such as app scraping
+- Stolen API keys and embedded secrets
+- Man-in-the-middle attacks
+- Unauthorized clients calling mobile APIs directly
+- Compromised or risky runtime environments
 
-## ❓ What Approov does
+## What Approov does
 
 Approov verifies that API requests come from genuine, untampered mobile apps running in trusted environments. Verified apps receive short-lived Approov tokens or runtime secrets that backend services can validate before allowing API access.
 
@@ -26,7 +26,7 @@ How we do it:
 - Token binding and JWT validation
 - Real-time mobile threat intelligence
 
-## 🎯 Start here 
+## Start here 
 
 ### Popular repositories
 
@@ -64,7 +64,7 @@ Use these examples to validate Approov tokens before allowing traffic to reach p
 | PHP | [Laravel and generic PHP token checks](https://github.com/approov/quickstart-php-laravel-token-check) |
 | Azure | [Azure Functions and API Management](https://github.com/approov/approov-token-verifier-azure-functions) |
 
-## 📚 Documentation and resources 
+## Documentation and resources 
 
 - Developer docs: https://approov.io/docs/
 - Quickstarts: https://approov.io/resource/quickstarts/
